@@ -6,5 +6,6 @@ void main() {
 
 void hello() {
 printf("Hello Vader");
+printf(" B");
 
 }
